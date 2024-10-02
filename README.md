@@ -4,7 +4,7 @@
 - 💞️ I’m don’t looking to collaborate on anything 
 - 📫 You can’t reach me
 - 😄 Pronouns: It’s private information
-- ⚡ Fun fact: I’m 11 years old)
+- ⚡ Fun fact: It’s secret)
 
 <!---
 FallinAnno1154/FallinAnno1154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
