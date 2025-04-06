@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Don, and i am Typical Dev
+- 👋 Hi, I’m Don, and I am Typical Dev
 - 👀 I’m interested in programming and chess
 - 🌱 I’m currently learning three.js and python
 - 💞️ I’m don’t looking to collaborate on anything
