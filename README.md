@@ -1,12 +1,7 @@
-- 👋 Hi, I’m Typical Dev
+- 👋 Hi, I’m Don, and i am Typical Dev
 - 👀 I’m interested in programming and chess
-- 🌱 I’m currently learning web languages
-- 💞️ I’m don’t looking to collaborate on anything 
+- 🌱 I’m currently learning three.js and python
+- 💞️ I’m don’t looking to collaborate on anything
 - 📫 You can’t reach me
 - 😄 Pronouns: It’s private information
 - ⚡ Fun fact: It’s secret)
-
-<!---
-FallinAnno1154/FallinAnno1154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
